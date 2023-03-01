@@ -21,21 +21,21 @@ Feel free to copy and paste anything you liked from my readme (Customizing it to
 Once you've added all the content, scroll to the bottom of the page and click the "Commit new file" button.
 
 Your README will now be visible on the main page of your repository. -->
-
-
+<div align="center">
+  
+</div>
+<h1>Introduce</h1>
 * 🌳 I’m currently learning Vue.js source code! <br> 
-
-* 🐾 I’m looking to network and make friends here! <br>
-* 🌊 2023 Goals: Learning Webpack and Contribute to Open Source projects <br>
-* ☕ Interest: Handwriting, Singing, and Coding. <br>
-
-<h2></h2><br>
+  * 🐾 I’m looking to network and make friends here! <br>
+  * 🌊 2023 Goals: Learning Webpack and Contribute to Open Source projects <br>
+  * ☕ Interest: Handwriting, Singing, and Coding. <br>
+<br>
 
 <!-- <p align="center"> 
   <img src="assests/nightlife.gif" alt="Lofi Nightlight scene" /> 
 </p> -->
 
-<div align="center">
+<div align="left">
   <h2> <strong> Actively Learning </strong></h2>
   <img src="https://skillicons.dev/icons?i=vue,git,flutter,react,ts,html,css,js" alt="skills actively learning logos"> <br> 
   <h2> <strong> Plan to Learn </strong></h2>
