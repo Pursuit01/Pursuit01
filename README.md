@@ -38,7 +38,7 @@ Your README will now be visible on the main page of your repository. -->
 <div align="left">
   <h2> <strong> Actively Learning </strong></h2>
   <!--  &perline=3  -->
-  <img src="https://skillicons.dev/icons?i=vue,git,flutter,react,ts,html,css,js" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=vue,esbuild,vite,webpack,flutter,react,ts,html,css,js" alt="skills actively learning logos"> <br> 
   <h2> <strong> Plan to Learn </strong></h2>
-  <img src="https://skillicons.dev/icons?i=webpack,svelte,sass,vite,tailwind,nuxt,electron" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=svelte,sass,tailwind,nuxt,electron" alt="skills planning to learn logos">
 </div>
