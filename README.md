@@ -1,26 +1,3 @@
-<!-- My Readme Profile!
-I spent a lot of time to make my Readme, and if you like it feel free to take inspiration!
-
-**Acknowledgements**
-Awesome Readme Templates
-Awesome README
-How to write a Good readme
-
-**Authors**
-@Pursuit01
-
-**Deployment**
-Creating a README on GitHub is a simple process. Here are the steps:
-
-Click the "Create new file" button located in a new github repository (your username).
-
-In the "Name your file" field, enter "README.md" (without the quotes).
-
-Feel free to copy and paste anything you liked from my readme (Customizing it to fit your own theme and stats)
-
-Once you've added all the content, scroll to the bottom of the page and click the "Commit new file" button.
-
-Your README will now be visible on the main page of your repository. -->
 <div align="center">
   
 </div>
@@ -42,7 +19,7 @@ Your README will now be visible on the main page of your repository. -->
   <h2> <strong> Plan to Learn </strong></h2>
   <img src="https://skillicons.dev/icons?i=svelte,sass,tailwind,nuxt,electron" alt="skills planning to learn logos">
 </div>
+<hr />
+<img  src="https://github-readme-stats.vercel.app/api?username=Pursuit01&show_icons=true&hide_title=false&theme=transparent)](https://github.com/anuraghazra/github-readme-stats" />
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Pursuit01&show_icons=true&hide_title=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats" />
-
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pursuit01&hide_progress=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pursuit01&hide_progress=false&theme=transparent)](https://github.com/anuraghazra/github-readme-stats" />
