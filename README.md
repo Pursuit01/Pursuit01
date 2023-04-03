@@ -43,6 +43,6 @@ Your README will now be visible on the main page of your repository. -->
   <img src="https://skillicons.dev/icons?i=svelte,sass,tailwind,nuxt,electron" alt="skills planning to learn logos">
 </div>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=Pursuit01&show_icons=true&hide_title=false)](https://github.com/anuraghazra/github-readme-stats" />
+<img  src="https://github-readme-stats.vercel.app/api?username=Pursuit01&show_icons=true&hide_title=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats" />
 
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pursuit01&hide_progress=false)](https://github.com/anuraghazra/github-readme-stats" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pursuit01&hide_progress=false&theme=radical)](https://github.com/anuraghazra/github-readme-stats" />
