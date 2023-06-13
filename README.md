@@ -3,7 +3,7 @@
 <h2>Introduce</h2>
 🌳 I’m currently learning Vue.js source code! <br> 
 🐾 I’m looking to network and make friends here! <br>
-🌊 2023 Goals: Learning Webpack and Contribute to Open Source projects <br>
+🌊 2023 Goals: Learning Webpack, ThreeJS and Contribute to Open Source projects <br>
 ☕ Interest: Handwriting, Singing, and Coding. <br>
 <br>
 <div align="left">
