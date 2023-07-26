@@ -9,9 +9,9 @@
 <div align="left">
   <h2> <strong> Actively Learning </strong></h2>
   <!--  &perline=3  -->
-  <img src="https://skillicons.dev/icons?i=vue,vite,webpack,flutter,react,ts,html,css,js" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=nestjs,vue,vite,webpack,flutter,react,ts,html,css,js" alt="skills actively learning logos"> <br> 
   <h2> <strong> Plan to Learn </strong></h2>
-  <img src="https://skillicons.dev/icons?i=svelte,sass,tailwind,nuxt,electron" alt="skills planning to learn logos">
+  <img src="https://skillicons.dev/icons?i=angular,sass,tailwind,nuxt,threejs" alt="skills planning to learn logos">
 </div>
 <hr />
 <img src="https://github-readme-stats.vercel.app/api?username=Pursuit01&show_icons=true&hide_title=false&theme=transparent)](https://github.com/anuraghazra/github-readme-stats" />
