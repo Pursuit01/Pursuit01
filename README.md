@@ -2,17 +2,17 @@
 </div>
 <h2>Introduce</h2>
 🌳 I’m currently learning Vue.js source code! <br> 
-🐾 <b>I am seeking a job with coordinates in Hangzhou</b> <br>
+🐾 <b>I am seeking a job with coordinates in Hangzhou!!!</b> <br>
 🌊 2023 Goals: Learning Design Patterns, NestJS and Contribute to Open Source projects <br>
 ☕ Interest: Handwriting, Singing, and Coding. <br>
 <br>
 
 <div align="left">
   <h2> <strong> Actively Learning </strong></h2>
-  <!--  &perline=3  -->
-  <img src="https://skillicons.dev/icons?i=nestjs,vue,vite,webpack,flutter,react,ts,html,css,js" alt="skills actively learning logos"> <br> 
-  <h2> <strong> Plan to Learn </strong></h2>
-  <img src="https://skillicons.dev/icons?i=angular,sass,tailwind,nuxt,threejs" alt="skills planning to learn logos">
+  <!--  &perline=3    html,css,js -->
+  <img src="https://skillicons.dev/icons?i=vue,vite,react,nestjs,ts,webpack,flutter" alt="skills actively learning logos"> <br> 
+<!--   <h2> <strong> Plan to Learn </strong></h2>
+  <img src="https://skillicons.dev/icons?i=angular,sass,threejs" alt="skills planning to learn logos"> -->
 </div>
 <hr />
 <p align="left">
