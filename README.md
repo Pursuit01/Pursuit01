@@ -6,6 +6,11 @@
 🌊 2023 Goals: Learning Webpack, ThreeJS and Contribute to Open Source projects <br>
 ☕ Interest: Handwriting, Singing, and Coding. <br>
 <br>
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Pursuit01/count.svg" />
+</p>
+<br>
 <div align="left">
   <h2> <strong> Actively Learning </strong></h2>
   <!--  &perline=3  -->
