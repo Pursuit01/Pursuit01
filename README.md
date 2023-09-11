@@ -10,7 +10,7 @@
 <div align="left">
   <h2> <strong> Actively Learning </strong></h2>
   <!--  &perline=3    html,css,js -->
-  <img src="https://skillicons.dev/icons?i=vue,vite,react,nestjs,ts,webpack,flutter" alt="skills actively learning logos"> <br> 
+  <img src="https://skillicons.dev/icons?i=vue,react,nestjs,ts,vite,webpack,flutter" alt="skills actively learning logos"> <br> 
 <!--   <h2> <strong> Plan to Learn </strong></h2>
   <img src="https://skillicons.dev/icons?i=angular,sass,threejs" alt="skills planning to learn logos"> -->
 </div>
